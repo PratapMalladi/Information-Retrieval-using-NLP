@@ -8,18 +8,24 @@ Data Set Details:
 qa_Electronics.json
 
 Acceptance criteria:
-An interface to which takes text as input, in the backend NLP algorithm retrieveval.
+An interface to which takes text as input, in the backend NLP algorithm retrieveval and retrieves 5 most relevant responses from the corpus with rankings.
 
 Milestones:
 65 days to complete the Project
 
-Milestone	Duration 	Task start - End Date 
+Milestone	Duration 	
 Kick off and Business Objective discussion	1 day	
+
 Data set Details	1 Week – 1 ½ week	
+
 EDA	2 Weeks – 2 ½ week	
+
 Model Building	1 Week – 1 ½ week	
+
 Model Evaluation	1 week	
+
 Feedback Deployment	1 Week	
+
 Final presentation	1 day	
 
 Protocols:
