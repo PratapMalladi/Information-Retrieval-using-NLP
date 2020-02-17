@@ -37,6 +37,6 @@ Final presentation
 
 Protocols:
 
-1)	All participants should adhere to agreed timelines and timelines will not be extended
-2)	All the documentation – Final presentation and R/python code to be submitted before the final presentation day
-3)	All the participants must attend review meetings
+1)	Should adhere to agreed timelines and timelines will not be extended
+2)	Final presentation and python code to be submitted before the final presentation day
+3)	Review meetings are Mandatory and need to be attended by all stakeholders of the project.
