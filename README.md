@@ -6,8 +6,7 @@ Information retrieval (IR) may be defined as a software program that deals with 
 
 #Business Objective:
 Based on the text question, NLP algorithm should retrieve 5 most relevant responses from the corpus with rankings (Probabilities).
-
-#Objective of the project is how one can use natural language processing to extract keywords (aspects) from a product review. The idea is to essentially try to replicate what Online Market Place firms does with its reviews. 
+The idea is to essentially try to replicate what Online Market Place firms does with its reviews. 
 
 For example from reviews of a given product, Online Market place, extracts key-words and then allows users to search comments by these key-words. NLP, is an attempt to make a computer understand human language. Computers can easily understand programming languages. 
 
