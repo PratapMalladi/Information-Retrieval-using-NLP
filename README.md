@@ -1,11 +1,9 @@
 ## Information-Retrieval-using-NLP
 
-##Project on Information Retrieval using NLP 
-
-Information retrieval (IR) may be defined as a software program that deals with the organization, storage, retrieval and evaluation of information from document repositories particularly textual information. The system assists users in finding the information they require but it does not explicitly return the answers of the questions. It informs the existence and location of documents that might consist of the required information. 
+Information retrieval (IR) is defined as a software program that deals with the organization, storage, retrieval and evaluation of information from document repositories particularly textual information. The system assists users in finding the information they require but it does not explicitly return the answers of the questions. It informs the existence and location of documents that might consist of the required information. 
 
 ##Business Objective:
-Based on the text question, NLP algorithm should retrieve 5 most relevant responses from the corpus with rankings (Probabilities).
+To Predict 5 best matching answers from the Product info, Q & A's reviews.
 The idea is to essentially try to replicate what Online Market Place firms does with its reviews. 
 
 For example from reviews of a given product, Online Market place, extracts key-words and then allows users to search comments by these key-words. NLP, is an attempt to make a computer understand human language. Computers can easily understand programming languages. 
